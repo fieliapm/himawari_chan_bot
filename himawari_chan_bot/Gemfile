@@ -1,0 +1,8 @@
+source 'https://rubygems.org'
+
+gem 'nokogiri'
+gem 'sinatra'
+gem 'line-bot-api'
+gem 'telegram-bot'
+gem 'slack-ruby-client'
+gem 'async-websocket'
